@@ -1,0 +1,17 @@
+.pieza{border: 2px solid white;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+        .pieza[value="x"]{color: #ffffff;background-color: red;}
+        .pieza[value="o"]{ color: #ffffff;background-color: blue;}
+        .ganador{border: 1px solid green;width: 70px;height:70px;margin-left: 15px;margin-right: 15px;}
+        .ganador[value="x"]{color: #ffffff;background-color: red;}
+        .ganador[value="o"]{ color: #ffffff;background-color: blue;}
+        
+
+
+        body{
+        background-color: black	
+        }
+
+        h3{
+        color: white;
+        	
+        }
